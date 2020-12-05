@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaleSineDLl", "SaleSineDLl\SaleSineDLl.csproj", "{DC5E7C8D-D504-4F43-9A2A-17F744CCAAA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShinWin", "ShinWin\ShinWin.csproj", "{6BAF51F5-8860-4B89-BFF6-3680881F6BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC5E7C8D-D504-4F43-9A2A-17F744CCAAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5E7C8D-D504-4F43-9A2A-17F744CCAAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5E7C8D-D504-4F43-9A2A-17F744CCAAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5E7C8D-D504-4F43-9A2A-17F744CCAAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAF51F5-8860-4B89-BFF6-3680881F6BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAF51F5-8860-4B89-BFF6-3680881F6BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAF51F5-8860-4B89-BFF6-3680881F6BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAF51F5-8860-4B89-BFF6-3680881F6BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0AAABC5-13A6-45D5-9094-A1E818DCAE72}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\bin\Debug\netcoreapp3.1\SaleShine.exe
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\bin\Debug\netcoreapp3.1\SaleShine.deps.json
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\bin\Debug\netcoreapp3.1\SaleShine.runtimeconfig.json
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\bin\Debug\netcoreapp3.1\SaleShine.runtimeconfig.dev.json
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\bin\Debug\netcoreapp3.1\SaleShine.dll
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\bin\Debug\netcoreapp3.1\SaleShine.pdb
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\obj\Debug\netcoreapp3.1\SaleShine.csprojAssemblyReference.cache
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\obj\Debug\netcoreapp3.1\SaleShine.Form1.resources
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\obj\Debug\netcoreapp3.1\SaleShine.Properties.Resources.resources
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\obj\Debug\netcoreapp3.1\SaleShine.csproj.GenerateResource.cache
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\obj\Debug\netcoreapp3.1\SaleShine.AssemblyInfoInputs.cache
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\obj\Debug\netcoreapp3.1\SaleShine.AssemblyInfo.cs
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\obj\Debug\netcoreapp3.1\SaleShine.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\obj\Debug\netcoreapp3.1\SaleShine.dll
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\obj\Debug\netcoreapp3.1\SaleShine.pdb
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleShine\obj\Debug\netcoreapp3.1\SaleShine.genruntimeconfig.cache

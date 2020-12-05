@@ -1,0 +1,9 @@
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\obj\Debug\netstandard2.0\SaleSineDLl.csprojAssemblyReference.cache
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\obj\Debug\netstandard2.0\SaleSineDLl.AssemblyInfoInputs.cache
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\obj\Debug\netstandard2.0\SaleSineDLl.AssemblyInfo.cs
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\obj\Debug\netstandard2.0\SaleSineDLl.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\bin\Debug\netstandard2.0\SaleSineDLl.deps.json
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\bin\Debug\netstandard2.0\SaleSineDLl.dll
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\bin\Debug\netstandard2.0\SaleSineDLl.pdb
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\obj\Debug\netstandard2.0\SaleSineDLl.dll
+C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\obj\Debug\netstandard2.0\SaleSineDLl.pdb
