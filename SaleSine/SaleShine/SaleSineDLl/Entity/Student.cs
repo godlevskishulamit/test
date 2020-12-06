@@ -5,6 +5,22 @@ using System.Text;
 namespace SaleSineDLl.Entity
 {
 
+
+    public class GiftType
+    {
+        public int Type { get; set; }
+
+        public string Gift { get; set; }
+
+        public string Money { get; set; }
+    }
+
+   public  class Gifts
+    {
+        public int Gift { get; set; }
+        public bool IsGift { get; set; }
+    }
+
     public class Payment 
     {
 
@@ -24,12 +40,10 @@ namespace SaleSineDLl.Entity
 
         public List<Payment > Payments { get; set; }
 
+         public List<Gifts> GIFT { get; set; }
 
-        public bool ISGift { get; set; }
-
-        public string TypeGift { get; set; }
     }
 
 
-    
+
 }
