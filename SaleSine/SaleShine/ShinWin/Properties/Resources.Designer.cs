@@ -63,6 +63,16 @@ namespace ShinWin.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bass {
+            get {
+                object obj = ResourceManager.GetObject("bass", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap MAin {
             get {
                 object obj = ResourceManager.GetObject("MAin", resourceCulture);

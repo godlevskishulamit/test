@@ -12,7 +12,9 @@ namespace SaleSineDLl.Entity
 
         public string Gift { get; set; }
 
-        public string Money { get; set; }
+        public Double Money { get; set; }
+
+        public Double MoneySister { get; set; }
     }
 
    public  class Gifts
@@ -21,12 +23,13 @@ namespace SaleSineDLl.Entity
         public bool IsGift { get; set; }
     }
 
-    public class Payment 
+    public class Payment
     {
 
-        public double PAyment { get; set; }
+        public double Sum { get; set; }
         public int  Kind { get; set; }
 
+        public string  KindName { get; set; }
     }
    public  class Student
     {
