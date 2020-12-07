@@ -6,4 +6,3 @@ C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\bin\Debug\n
 C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\bin\Debug\netstandard2.0\SaleSineDLl.pdb
 C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\obj\Debug\netstandard2.0\SaleSineDLl.dll
 C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\obj\Debug\netstandard2.0\SaleSineDLl.pdb
-C:\Users\My Laptop\source\repos\testb\SaleSine\SaleShine\SaleSineDLl\obj\Debug\netstandard2.0\SaleSineDLl.csprojAssemblyReference.cache

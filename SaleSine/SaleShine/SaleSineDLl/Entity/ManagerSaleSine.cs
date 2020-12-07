@@ -20,7 +20,7 @@ namespace SaleSineDLl
 
         const string GET_CACHE = @"SELECT [Type],[Gift],[money],MoneySister FROM [dbo].[GiftType]";
 
-        const string Get_GIFT = "SELECT  [Gift],[ISGet] FROM [dbo].[Gifts] where tz='{0}'";
+        const string Get_GIFT = "SELECT  [Gift],[ISGet] as ISGift FROM [dbo].[Gifts] where tz='{0}'";
 
 
         const string AddPaymeny = @"INSERT INTO[dbo].[MoneyDonated]
@@ -31,14 +31,14 @@ namespace SaleSineDLl
 
         const string GETPERCLASS = @"select  sum(m.sum)
 from Students inner join [dbo].[MoneyDonated]m
-//on Students.TZ= m.TZ where Students.Class =N'{0}'";
+on Students.TZ= m.TZ where Students.Class =N'{0}'";
         const string ADD_GIFT = @"INSERT INTO [dbo].[Gifts]
            ([Tz]
            ,[Gift]
            ,[ISGet])
-     VALUES '{0}','{1}','0";
-        const string UPDATEGIFT = @"UPDATE [dbo].[Gifts] set [ISGet] = true;
- WHERE tz = '{0}' and gift = { 1 }";
+     VALUES ('{0}','{1}',0 )";
+        const string UPDATEGIFT = @"UPDATE [dbo].[Gifts] set [ISGet] = 'True'
+ WHERE tz = '{0}' and gift = {1}";
 
         #endregion
         public Student GetStudent(string TZ)
@@ -126,7 +126,7 @@ from Students inner join [dbo].[MoneyDonated]m
         {
             try
             {
-                Functions.ExNONQuery(string.Format(UPDATEGIFT , TZ, gift.Gift), new DalHandler().GetConnectionString(CONNTION_STRING_NAME));
+                Functions.ExNONQuery(string.Format(UPDATEGIFT , TZ, gift.Gift), CONNTION_STRING_NAME);
                 return true;
             }
             catch
@@ -137,11 +137,13 @@ from Students inner join [dbo].[MoneyDonated]m
         public double GetALlPaymenyClass(string Class)
         {
             DataTable dt = Functions.ExQueryWithConnStr(string.Format(GETPERCLASS, Class), new DalHandler().GetConnectionString(CONNTION_STRING_NAME));
-                if (dt == null || dt.Rows.Count == 0)
+            if (dt == null || dt.Rows.Count == 0)
             {
                 return 0;
             }
             else
+            if (dt.Rows[0][0] == DBNull.Value)
+                return 0;
                 return Convert.ToDouble(dt.Rows[0][0]);
         }
 
