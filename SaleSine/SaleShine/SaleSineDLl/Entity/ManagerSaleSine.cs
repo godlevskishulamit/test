@@ -26,7 +26,12 @@ namespace SaleSineDLl
         const string AddPaymeny = @"INSERT INTO[dbo].[MoneyDonated]
         ([Num],[TZ],[Sum],[Kind],[KindName],[DateUpdate])
  values
- ((select isnull((select ROW_NUMBER() OVER(ORDER BY TZ ASC) from MoneyDonated where TZ = '{0}'),0) +1 ) ,'{0}' ,{1} , {2}
+ (
+(
+ select 
+ isnull(count(*) ,0)+1from MoneyDonated where TZ = '{0}'
+ )
+,'{0}' ,{1} , {2}
  ,N'{3}', getdate())";
 
         const string GETPERCLASS = @"select  sum(m.sum)
