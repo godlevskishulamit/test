@@ -55,6 +55,7 @@ namespace ShinWin
             DialogResult resul = MessageBox.Show(string.Format(show, p.Sum, p.KindName), "אישור סכום", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1, MessageBoxOptions.RtlReading);
             if (resul == DialogResult.No)
             {
+                BTNOK.Enabled = true;
                 TxtSum.Text = "0";
                 return;
             }

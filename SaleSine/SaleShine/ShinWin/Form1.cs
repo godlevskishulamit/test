@@ -80,6 +80,7 @@ namespace ShinWin
         //אחרי הוספת סכום
         private void BTNOK_Click(object sender, EventArgs e)
         {
+            BTNOK.Enabled = false;
             AfterAddSum();
         }
 
