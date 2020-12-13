@@ -21,6 +21,7 @@ namespace ShinWin
             InitializeComponent();
             lblRemark.Visible = false;
             VesibleColumn(0);
+           
             createCB();
            // lChekBox.Add(CB1);
            // lChekBox.Add(cb2);
@@ -98,9 +99,10 @@ namespace ShinWin
         private void TxtSum_Validated(object sender, EventArgs e)
         {
             decimal d;
+            BTNOK.Enabled = true;
             if (decimal.TryParse(TxtSum.Text, out d))
             {
-                //valid 
+                BTNOK.Enabled = true;   //valid 
             }
             else
             {
