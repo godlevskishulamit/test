@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "YRpDTqje9hoxit9RjmnWgRmwP3qk/EGe0wHhvARSv/hoIueFaJTsMUcw0ILKB3dz/IeGfDKMg07HH5/FdIJ/tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\My Laptop\\source\\repos\\testb\\RR_SYSTEM_TEST\\Wort2Pdf\\Wort2Pdf\\Wort2Pdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\My Laptop\\.nuget\\packages\\freespire.doc\\7.11.0\\freespire.doc.7.11.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\skiasharp\\1.68.0\\skiasharp.1.68.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\system.security.cryptography.pkcs\\4.5.0\\system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\My Laptop\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
