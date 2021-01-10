@@ -1,0 +1,15 @@
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\obj\Debug\netcoreapp3.1\formWord2PDf.csprojAssemblyReference.cache
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\obj\Debug\netcoreapp3.1\formWord2PDf.Form1.resources
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\obj\Debug\netcoreapp3.1\formWord2PDf.csproj.GenerateResource.cache
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\obj\Debug\netcoreapp3.1\formWord2PDf.AssemblyInfoInputs.cache
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\obj\Debug\netcoreapp3.1\formWord2PDf.AssemblyInfo.cs
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\obj\Debug\netcoreapp3.1\formWord2PDf.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\bin\Debug\netcoreapp3.1\formWord2PDf.exe
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\bin\Debug\netcoreapp3.1\formWord2PDf.deps.json
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\bin\Debug\netcoreapp3.1\formWord2PDf.runtimeconfig.json
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\bin\Debug\netcoreapp3.1\formWord2PDf.runtimeconfig.dev.json
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\bin\Debug\netcoreapp3.1\formWord2PDf.dll
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\bin\Debug\netcoreapp3.1\formWord2PDf.pdb
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\obj\Debug\netcoreapp3.1\formWord2PDf.dll
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\obj\Debug\netcoreapp3.1\formWord2PDf.pdb
+C:\Users\My Laptop\source\repos\testb\RR_SYSTEM_TEST\Wort2Pdf\formWord2PDf\obj\Debug\netcoreapp3.1\formWord2PDf.genruntimeconfig.cache

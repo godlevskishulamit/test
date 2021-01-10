@@ -10,22 +10,23 @@ namespace Wort2Pdf
     {
         static void Main(string[] args)
         {
-           // Console.WriteLine("Hello World!");
-        
-            
-                
+            // Console.WriteLine("Hello World!");
 
-                Document document = new Document();
-                document.LoadFromFile(@"C:\data\past2.docx");
 
-                //Convert Word to PDF
-                document.SaveToFile("toPDF.PDF", FileFormat.PDF);
 
-                //Launch Document
-                //System.Diagnostics.Process.Start("toPDF.PDF");
-            }
+
+            //Document document = new Document();
+            //document.LoadFromFile(@"C:\data\past2.docx");
+
+            ////Convert Word to PDF
+            //document.SaveToFile("toPDF.PDF", FileFormat.PDF);
+
+            //Launch Document
+            //System.Diagnostics.Process.Start("toPDF.PDF");
+
         }
     }
+}
     
 
     

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wort2Pdf", "Wort2Pdf\Wort2Pdf.csproj", "{7CCF1269-6FA0-466F-A169-7F2F344B361F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "word2PdfNet", "word2PdfNet\word2PdfNet.csproj", "{F3CD6399-34F1-4BA0-88A7-5B2C11E0BF6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formWord2PDf", "formWord2PDf\formWord2PDf.csproj", "{8A082AD8-1DF1-4F2E-90BC-003045509800}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7CCF1269-6FA0-466F-A169-7F2F344B361F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7CCF1269-6FA0-466F-A169-7F2F344B361F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7CCF1269-6FA0-466F-A169-7F2F344B361F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7CCF1269-6FA0-466F-A169-7F2F344B361F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3CD6399-34F1-4BA0-88A7-5B2C11E0BF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CD6399-34F1-4BA0-88A7-5B2C11E0BF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CD6399-34F1-4BA0-88A7-5B2C11E0BF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CD6399-34F1-4BA0-88A7-5B2C11E0BF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A082AD8-1DF1-4F2E-90BC-003045509800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A082AD8-1DF1-4F2E-90BC-003045509800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A082AD8-1DF1-4F2E-90BC-003045509800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A082AD8-1DF1-4F2E-90BC-003045509800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
